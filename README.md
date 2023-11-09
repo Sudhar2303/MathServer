@@ -145,7 +145,7 @@ urlpatterns = [
 ## Output:
 
 ![Alt text](<Screenshot (307).png>)
-![Alt text](<Screenshot (306).png>)
+![Screenshot (305)](https://github.com/Sudhar2303/MathServer/assets/133684710/a60f1c83-22c8-469f-b71a-cc9c1f6a049b)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
